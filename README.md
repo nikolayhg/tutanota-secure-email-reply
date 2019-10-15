@@ -1,6 +1,6 @@
 # How to reply to a secure email sent by tutanota user
 
-The user should sent you a password with you will be able to read and reply to the email by following the steps:
+The user should sent you a password with which you will be able to read and reply to the email by following the steps:
 
 1. The user will send you the password. Save it, you will need it also in the future.
 
